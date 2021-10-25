@@ -1,6 +1,9 @@
 ---
 title: "Non-cytotoxic Dityrosine Photocrosslinked Polymeric Materials With Targeted Elastic Moduli"
 collection: publications
+permalink: /publication/2020-03-13-paper-title-number-1
+excerpt: 'Polymer biomaterials developed for use on diabetic foot ulcers.'
+date: 2020-03-13
 venue: 'Frontiers in Chemistry'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Camp, Christopher P., Peterson, Ingrid L., et al. "Non-cytotoxic Dityrosine Photocrosslinked Polymeric Materials With Targeted Elastic Moduli." Frontiers in chemistry 8 (2020): 173.'
