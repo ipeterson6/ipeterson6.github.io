@@ -1,7 +1,6 @@
 ---
 title: "Non-cytotoxic Dityrosine Photocrosslinked Polymeric Materials With Targeted Elastic Moduli"
 collection: publications
-date: 2020
 venue: 'Frontiers in Chemistry'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Camp, Christopher P., Peterson, Ingrid L., et al. "Non-cytotoxic Dityrosine Photocrosslinked Polymeric Materials With Targeted Elastic Moduli." Frontiers in chemistry 8 (2020): 173.'
