@@ -11,7 +11,9 @@ redirect_from:
 Astrocytes are glial cells, cells that keep nerve cells in place and proper shape, found in both the Central and Peripheral Nervous Systems (CNS/PNS) that are found in a five to one ratio to neurons (Sofroniew, Vitners, 2010). These specialized cells take part in and conduct numerous complex functions under healthy conditions and are vital in the CNS/PNS response to injury. This response to injury is known as reactive astrogliosis which can result in regaining some function, glial scar formation, or both. The mechanisms behind this response is currently not fully understood and the aim of my project is to identify any critical long non-coding RNA that are involved in regulating astrocyte proliferation and activation in order to characterize their behavior.
 There are two major types of astrocytes, protoplasmic and fibrous astrocytes.  Fibrous astrocytes, or Type 1, were previously called reactive astrocytes and morophologically appear as greatly branched cells with short processes; Type 1 are hypothesized to be the main type of astrocyte involved in glial scar production and provide a scaffold for protoplasmic astrocytes while also forming the aforementioned glial scar. Protoplasmic astrocytes, or Type 2, morphologically appear as fine cells with long processes, this type has been shown to be involved in regaining neuronal function after injury.
 
-![AstroIso_20210913_img_20210924_0019](https://user-images.githubusercontent.com/92540106/138784042-da754339-91a8-4c01-bb4e-8b213c391798.jpg)
+![IMG_4840](https://user-images.githubusercontent.com/92540106/138784227-5a860f02-a855-4743-980e-83dcc78d6099.jpeg)
+
+![IMG_4842](https://user-images.githubusercontent.com/92540106/138784179-0b60af1d-f208-442d-97a2-1264d0333a13.jpeg)
 
 
 The Schnellmann Lab
