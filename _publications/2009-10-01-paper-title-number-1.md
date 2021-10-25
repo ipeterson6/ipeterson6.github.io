@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Non-cytotoxic Dityrosine Photocrosslinked Polymeric Materials With Targeted Elastic Moduli"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2020
+venue: 'Frontiers in Chemistry'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Camp, Christopher P., Peterson, Ingrid L., et al. "Non-cytotoxic Dityrosine Photocrosslinked Polymeric Materials With Targeted Elastic Moduli." Frontiers in chemistry 8 (2020): 173.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Controlling mechanical properties of polymeric biomaterials, including the elastic modulus, is critical to direct cell behavior, such as proliferation and differentiation. Dityrosine photocrosslinking is an attractive and simple method to prepare materials that exhibit a wide range of elastic moduli by rapidly crosslinking tyrosyl-containing polymers. However, high concentrations of commonly used oxidative crosslinking reagents, such as ruthenium-based photoinitiators and persulfates, present cytotoxicity concerns. We found the elastic moduli of materials prepared by crosslinking an artificial protein with tightly controlled tyrosine molarity can be modulated up to 40 kPa by adjusting photoinitiator and persulfate concentrations. Formulations with various concentrations of the crosslinking reagents were able to target a similar material elastic modulus, but excess unreacted persulfate resulted in cytotoxic materials. Therefore, we identified a systematic method to prepare non-cytotoxic photocrosslinked polymeric materials with targeted elastic moduli for potential biomaterials applications in diverse fields, including tissue engineering and 3D bioprinting.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.frontiersin.org/articles/10.3389/fchem.2020.00173/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Chemistry&id=524906)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Camp, Christopher P., Peterson, Ingrid L., et al. "Non-cytotoxic Dityrosine Photocrosslinked Polymeric Materials With Targeted Elastic Moduli." Frontiers in chemistry 8 (2020): 173.
+
