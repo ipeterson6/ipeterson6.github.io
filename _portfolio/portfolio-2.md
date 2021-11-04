@@ -1,9 +1,11 @@
 ---
-title: "Astrocyte Immunocytochemistry 2"
+title: "Astrocyte Immunocytochemistry"
 excerpt: "Use of glial fibrilary protein (GFAP) and Astrocyte cell surface antigen-2 (ACSA-2) to visualize astrocytes in cell culture via immunocytochemistry"
 collection: portfolio
 ---
 GFAP is a type III intermediate filament protein that is expressed in the cytoskeleton of Type 1 astrocytes in the spinal cord. In cells that are stressed or unhealthy, expressino of GFAP increases; Astrocyte cell surface antigen-2 is found on the surface of Type 1 astrocytes in the spinal cord under normal healthy conditions.  Because the cell in the below image is a Type 2 astrocyte in culture, it is expressing both GFAP (green channel) and ACSA-2 (red channel), the image presents as yellow. DAPI was used to visualize the nucleus.
+
+![IMG_4840](https://user-images.githubusercontent.com/92540106/138786197-041b3f78-02cb-4938-b2fc-9a629dc102b3.jpeg)
 
 ![Astro_iso_ACSA_GFAP_0001](https://user-images.githubusercontent.com/92540106/138789001-01b7b5f6-0a1b-4cb0-a849-7e3c5115c2f9.jpg)
 
