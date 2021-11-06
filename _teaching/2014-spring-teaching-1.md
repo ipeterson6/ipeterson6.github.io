@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 1"
+title: "Mentorships"
 collection: teaching
-type: "Undergraduate course"
+type: "Extracurricular"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Arizona, College of Science and BIO5 Institute"
+date: 2014-05-01
+location: "Tucson, Arizona"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+During my undergraduate and graduate degrees I mentored students in two different capacities: Peer Advising and KEYS Mentor.  
 
-Heading 1
+BIO5 KEYS Mentor
 ======
 
-Heading 2
-======
+BIO5 Institute's KEYS (Keep Engaging Youth in Science) Research Internship Program: A unique summer opportunity for motivated Arizona high school students with a strong interest in bioscience, engineering, environmental health, data science and biostatistics to work with top University of Arizona faculty on research projects that address the world's greatest challenges.
+As a mentor I was involved in teaching students Good Lab Practice (GLP) as well as how to follow Standard Operating Procedure (SOPs) documents and run their own cell culture experiments.
 
-Heading 3
+
+Peer Advisor for the College of Science, July 2012-May 2016
 ======
+•	Work with students in the College of Science aiding in their various academic and personal needs
+•	Taught Freshman Success Course SCI 195A Spring 2015-Spring 2016
+•	Preceptor for Freshman Success Course ECOL 195M Fall 2014
+•	Instructor for SCI 195a Spring 2015
+•	Preceptor for ECOL 195M Fall 2014
