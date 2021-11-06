@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Pre- through HighSchool Substitute Science Teacher"
 collection: teaching
-type: "Workshop"
+type: "WTeacher"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "CFSD and TUSD"
+date: 2016-03-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+During my Masters program I worked as a substitute science teacher for the Catalina Foothills and Tucson Unified School Districts. 
