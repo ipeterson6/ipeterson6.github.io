@@ -40,7 +40,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  Camp, Christopher P., Peterson Ingrid L., et al. "Non-cytotoxic Dityrosine Photocrosslinked Polymeric Materials With Targeted Elastic Moduli." Frontiers in chemistry 8 (2020): 173.
   
 Abstracts
 ======
@@ -48,7 +47,6 @@ Abstracts
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-  Camp, C., Peterson, I. Novel Wound Healing Thermoresponsive Biomatrix with Antimicrobial and Anti-inflammatory Properties. 8th International Symposium on the Diabetic Foot, presented by Dr. Anne Wertheimer, May 23, 2019.
   
 Funding
 ======
