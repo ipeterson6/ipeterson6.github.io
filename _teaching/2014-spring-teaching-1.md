@@ -19,7 +19,7 @@ As a mentor I was involved in teaching students Good Lab Practice (GLP) as well 
 
 Peer Advisor for the College of Science, July 2012-May 2016
 ======
-•	Work with students in the College of Science aiding in their various academic and personal needs
+• Work with students in the College of Science aiding in their various academic and personal needs
 •	Taught Freshman Success Course SCI 195A Spring 2015-Spring 2016
 •	Preceptor for Freshman Success Course ECOL 195M Fall 2014
 •	Instructor for SCI 195a Spring 2015
